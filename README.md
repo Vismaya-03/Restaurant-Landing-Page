@@ -5,7 +5,6 @@ Designed for the fictional luxury dining brand **Verre – Simply Exquisite**.
 This website includes a hero slider, interactive menu showcase, reservation form, special dishes, testimonials, events, and more — all wrapped in a premium UI/UX experience.
 
 # Features
-## 🚀 Features
 
 ### Fully Responsive  
 Optimized for **mobile**, **tablet**, and **desktop** using custom breakpoints and fluid typography.
